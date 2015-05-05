@@ -1,6 +1,6 @@
-Name: play2
-Cartridge-Short-Name: Play2
-Display-Name: Play Framework 2.3.8
+Name: play2jb
+Cartridge-Short-Name: Play2jb
+Display-Name: Play Framework 2.3.8jb
 Description: The High Velocity Web Framework For Java and Scala
 Version: 2.3.8
 License: MIT
